@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">My Application</string>
+    <string name="app_name" translatable="false">My Family</string>
     <string name="edit_message">Enter Your Name</string>
     <string name="button_send">Send</string>
 </resources>
